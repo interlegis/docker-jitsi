@@ -1,6 +1,8 @@
 # docker-jitsi
 
-Solução para instalação de videoconferência de código aberto Jitsi em containers Docker, utilizando docker-compose. Já habilitada para utilizar certificados digitais válidos da CA gratuita Let's Encrypt (https://letsencrypt.org). 
+Solução para instalação de videoconferência de código aberto Jitsi em containers Docker, utilizando docker-compose. Já habilitada para utilizar certificados digitais válidos da CA gratuita Let's Encrypt (https://letsencrypt.org).
+
+Baseado em https://github.com/jitsi/docker-jitsi-meet.
 
 ## Requisitos
 
